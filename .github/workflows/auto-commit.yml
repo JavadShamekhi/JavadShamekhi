@@ -1,9 +1,11 @@
 name: Auto Commit
-
 on:
   schedule:
-    - cron: '0 8 * * *'   # every day at 8 AM UTC
-  workflow_dispatch:       # allows manual run
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   auto-commit:
@@ -11,11 +13,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Make a change
         run: |
           echo "$(date)" > last-updated.txt
-
       - name: Commit and push changes
         run: |
           git config --global user.name "JavadShamekhi"
