@@ -11,7 +11,7 @@
   <path d="M0,170 Q250,120 500,170 T1000,170 V200 H0 Z" fill="#0D1117" opacity="0.25"/>
   <path d="M0,185 Q250,150 500,185 T1000,185 V200 H0 Z" fill="#0D1117" opacity="0.4"/>
   <text x="50%" y="42%" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Javad Shamekhi</text>
-  <text x="50%" y="62%" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#F3F0FF">Frontend Developer • Next.js &amp; TypeScript</text>
+  <text x="50%" y="62%" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#F3F0FF">Frontend Developer • Next.js &amp; React &amp; TypeScript</text>
 </svg>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+with+Next.js+%26+TypeScript;Crafting+bilingual%2C+RTL-ready+web+apps;Currently+building+%E2%80%94+Zarrin+Gold+Store+%F0%9F%92%8E;Basketball+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
