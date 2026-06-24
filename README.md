@@ -22,11 +22,6 @@
 <tr>
 <td valign="top" width="55%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javadshamekhi/javadshamekhi/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/javadshamekhi/javadshamekhi/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ### 👋 About Me
 
 I'm **Javad**, a frontend developer who lives in the details — pixel-perfect layouts, smooth animations, and i18n architecture that actually works in both directions (LTR ↔️ RTL).
@@ -41,7 +36,10 @@ I'm **Javad**, a frontend developer who lives in the details — pixel-perfect l
 <td valign="top" width="45%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=javadshamekhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9" width="100%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javadshamekhi/javadshamekhi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/javadshamekhi/javadshamekhi/output/github-contribution-grid-snake.svg" />
+</picture>
 </td>
 </tr>
 </table>
