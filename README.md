@@ -77,6 +77,8 @@ Bilingual portfolio with `[locale]` routing, Jalali date formatting, dark/light 
 <td width="50%" valign="top">
 
 **💎 Zarrin Gold Store**
+<br/>
+<sub>zarringoldstore.ir</sub>
 
 Real-time gold price platform with a cron-secured price-feed pipeline routed through an Iranian proxy server, full client-side i18n, and Neon Postgres + Prisma backend.
 
